@@ -17,3 +17,6 @@ vivado verilog를 사용 보드는 basys3를 사용해서 개발 진행
 
 참고
 강사님에게 질문 및 수업시간에 공부한 내용활용
+
+결과물:
+https://docs.google.com/presentation/d/1V1hF7BSozFITTByWf6dAkFgv9EkK2SVgVbXV09zJb2g/edit?usp=sharing
